@@ -26,3 +26,7 @@ Typed wrapper for `aws eks update-kubeconfig`. Optional AWS identity check + clu
 |---|---|
 | `context` | kubeconfig context name |
 | `node-count` | Node count (empty when reachability probe skipped) |
+
+## Part of the pleme-io action library
+
+This action is one of 11 in [`pleme-io/pleme-actions`](https://github.com/pleme-io/pleme-actions) — discovery hub, version compat matrix, contributing guide, and reusable SDLC workflows shared across the library.
